@@ -2,6 +2,8 @@ body{
 box-sizing: border-box;
 background-color: #238662;  
 color:black;
+display: flex;
+justify-content: center;
 }
 .rodape{
 position: fixed;
@@ -16,9 +18,18 @@ font-family: Arial, Helvetica, sans-serif;
 text-align: center;
 }
 .container{
-    margin: 8px;
+    margin: -15px;
     padding: 5px;
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.primeiro_texto{
+    width: 500px;
+    height: 500px ;
+    background-color: #C4C8BA;
+    align-items: flex-start;
+
+
 }
