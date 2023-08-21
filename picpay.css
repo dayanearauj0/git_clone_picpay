@@ -104,6 +104,29 @@ font-size: 20px;
 justify-content: flex-end;
 }
 
+.botao2{
+  align-items: flex-end;
+  }
+  
+.botao02{
+  box-sizing: border-box;
+  border: none;
+  width: 300px;
+  height: 50px;
+  background-color: #238662;
+  color: white;
+  cursor: pointer;
+  transition: 0.7s;
+  border-radius: 9px;
+  }
+  
+  .botao02:hover{
+  background-color:#30c58e ;
+  border: #ececec 3px solid;
+  color: rgb(195, 236, 236);
+  border-radius: 9px;
+  }
+
 
     /*
 display: flex;
