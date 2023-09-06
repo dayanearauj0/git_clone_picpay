@@ -66,6 +66,7 @@ body {
 .primeiro_box {
   display: flex;
   width: 50%;
+  height: 80%;
   background-color: #C4C8BA;
   flex-direction: column;
   justify-content:center;
@@ -107,11 +108,12 @@ body {
 
 .imagem_moca {
   width: 50%;
+  height: 80%;
 }
 
 .container_inferior{
   width:100%;
-  height: 500px ;   
+  height: 60% ;   
   display: flex;
   align-items: center;
   justify-content: center;
@@ -123,12 +125,12 @@ body {
 
 .segundo_box{
 display: flex;
-width: 50%;
+width: 40%;
 background-color: #238662;
 flex-direction: column;
-justify-content:center;
 align-items: center;
 align-content: stretch;
+
 }
 
 /* display: flex;
@@ -139,22 +141,23 @@ align-content: stretch;
   align-items: center;
   align-content: stretch;*/
 .texto2{
-  font-size: 16px;
-  width: 80%;
+  font-size: 13px;
+  justify-content: space-around;
 }
 
 h1 {
-  height: 120px;
-  font-size: 50px;
+  font-size: 40px;
+  
 }
 
 h2 {
-height: 80px;
 font-family: 'Optima', sans-serif;
+
 }
 
 .botao2{
 align-items: flex-end;
+padding: 30px;
 }
   
 .botao02{
@@ -177,7 +180,7 @@ border-radius: 9px;
 }
 
 .imagem_gif {
-  width: 400px;
+  width: 300px;
 }
 
 
