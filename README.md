@@ -8,9 +8,11 @@
 
 # Criação da página inicial do site PicPay 
 
-### Disponível em 
-https://clone-picpay.vercel.app/
+<h3  style="color: green; text-decoration: none;"><strong><a href="https://clone-picpay.vercel.app/">
+  🎥 Visualizar Projeto no Bowser</a></strong></h3>
 
-### Acesse o Figma 
+
+
+### Disponível no Figma 
 https://www.figma.com/design/DD2UJZWo28w1eQPrCiBvbr/Landing-Page-PicPay?node-id=0-1&node-type=canvas&t=0kTcxQMe8Smm9677-0
 
