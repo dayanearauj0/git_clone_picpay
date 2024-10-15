@@ -1,12 +1,12 @@
 <div style="text-align: center;">
-    <h1 style="display: inline; margin: 0;">Clone 
+    <h1 style="display: inline; margin: 0;">Criação da página inicial do site  
     <img src="logo.png" alt="Descrição da imagem" width="75" style="vertical-align: middle; display: inline;"/>
     </h1>
 </div>
 
 <img src="MacBook Pro 16_ - 1.png">
 
-# Criação da página inicial do site PicPay 
+
 
 <h3  style="color: green; text-decoration: none;"><strong><a href="https://clone-picpay.vercel.app/">
   🎥 Visualizar Projeto no Bowser</a></strong></h3>
